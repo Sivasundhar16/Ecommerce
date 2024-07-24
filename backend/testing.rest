@@ -1,0 +1,15 @@
+### get all product
+GET http://localhost:8000/api/v1/products
+
+### post all product
+POST http://localhost:8000/api/v1/products/new
+
+### get a single product
+GET  http://localhost:8000/api/v1/product/6698ba3da843ed14879adf69
+
+###  update a product
+PUT http://localhost:8000/api/v1/product/6698ba3da843ed14879adf70
+
+
+### -  delete a single product
+DELETE  http://localhost:8000/api/v1/product/6698ba3da843ed14879adf74
